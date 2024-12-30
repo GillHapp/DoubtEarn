@@ -81,7 +81,7 @@ Ensure you have the following installed:
 
 1. Clone the project repository:  
    ```bash
-   git clone [https://github.com/gola-k/DoubtEarn_bnb.git](https://github.com/Gola-k/DoubtEarn)
+   git clone https://github.com/gola-k/DoubtEarn_bnb.git
    cd DoubtEarn
    ```
 
