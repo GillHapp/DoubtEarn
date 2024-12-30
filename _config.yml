@@ -1,30 +1,8 @@
-# Configurations for enabling GitHub Pages
-title: "DoubtEarn"
-description: "DoubtEarn is a decentralized Q&A platform built on the BNB Smart Chain."
-url: "https://doubtearn.netlify.app"
-baseurl: "/"
-
-# Set theme and other options for GitHub Pages
-theme: jekyll-theme-minimal
-
-# Permalinks to customize URLs for your site
-permalink: /:year/:month/:day/:title/
-
-# Define where the site should be published
-publish_dir: "_site"
-
-# Exclude certain files from being published
-exclude:
-  - "README.md"
-  - "PITCHDECK.md"
-
-# Include Markdown files for pages, such as about or project details
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
-  - "about.md"
-  - "project.md"
-
-# Configure the GitHub Pages source directory
-source: "."
-
-# Enable relative URLs for GitHub Pages
-relative_links: true
+  - PITCHDECK.md
+  - README.md
