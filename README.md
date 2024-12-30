@@ -161,7 +161,7 @@ We welcome contributions to improve **DoubtEarn**! 🎉
 ## **📧 Support**
 
 Have questions or need assistance?  
-Feel free to reach out at **[your-email@example.com](mailto:kunalgola9930@gmail.com)** or open an issue in the repository.  
+Feel free to reach out at **[kunalgola9930@gmail.com](mailto:kunalgola9930@gmail.com)** or open an issue in the repository.  
 
 ---
 
