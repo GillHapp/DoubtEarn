@@ -14,7 +14,7 @@ async function main() {
     it to lowercase. What is the best way to achieve this?
     Are there any built-in functions or methods available for this task?`
   const tags = 'python, string, lowercase'
-  const prize = 0.1
+  const prize = 0.0001
 
   await contract.createQuestion(title, description, tags, {
     value: toWei(prize),
