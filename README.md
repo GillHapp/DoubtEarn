@@ -150,7 +150,8 @@ Ensure you have the following installed:
 
 ## **Useful Links**
 
-- 🏠 [Official Website](https://doubtearn.netlify.app.com)
+- 🏠 [Official Mainnet Website](https://doubt-earn.vercel.app/)
+- 🏠 [Official Testnet Website](https://doubtearn.netlify.app.com)
 - 💡 [Pitch Deck](https://gola-k.github.io/DoubtEarn/PITCHDECK)
 - 🎥 [Demo Video](https://www.youtube.com/watch?v=RTAlBB-keAU)
 - 🚀 [MetaMask Wallet](https://metamask.io/)
